@@ -26,5 +26,5 @@ This task helped to create cool frontend
 And as mentioned i replicated the image as close as much
 
 # Link
-I used 000Webhost for this task
-[!website](https://armigeral-pens.000webhostapp.com/midas/)
+I hosted the website on  000Webhost </br>
+Link: [!website](https://armigeral-pens.000webhostapp.com/midas/)
